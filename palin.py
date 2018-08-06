@@ -3,3 +3,5 @@
 # The substrings with different start indexes or end indexes are counted as different substrings even they consist of same characters. 
 
 print("Palindrome")
+a=10
+print(a)
